@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 I'm a Full-Stack Developer who is interested in full-time, part-time, and volunteer opportunities.  
 - 🌱 I’m currently learning React and CSS. 
 - 👯 I’m looking to collaborate on civic tech software projects.
-- 🤔 I’m looking for help with finding my next opportunity and joing a community that will foster my growth as a developer. 
+- 🤔 I’m looking for help with finding my next opportunity and joining a community that will foster my growth as a developer. 
 - 📫 How to reach me by email at jlipkin 'at' gmail 'dot' com. 
 - 😄 Pronouns: she/hers
